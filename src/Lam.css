@@ -7,7 +7,7 @@
 }
 .btr{
     border-bottom-right-radius: 700px;
-    background-image: url(mimi.jpg);
+    background-image: url(/mimi.jpg);
     background-size: 100% 100%;
 }
 .pp{
@@ -16,57 +16,57 @@
 }
 .mood{
     border-top-left-radius: 80%;
-     background-image: url(manface.jpg);
+     background-image: url(/manface.jpg);
     background-size: 100% 100%;
 }
 .mon{
      border-top-left-radius: 80%;
-     background-image: url(mma.jpg);
+     background-image: url(/mma.jpg);
     background-size: 100% 100%;
 }
 .life{
      border-top-right-radius: 95%;
-     background-image: url(cam.jpg);
+     background-image: url(/cam.jpg);
     background-size: 100% 100%;
 }
 .guard{
      border-bottom-right-radius: 95%;
-     background-image: url(write.jpg);
+     background-image: url(/write.jpg);
     background-size: 100% 100%;
 }
 .sobber{
     position: fixed;
 }
 .flower{
-background-image: url(google.jpg);
+background-image: url(/google.jpg);
     background-size: 100% 100%;
 }
 .floor{
-background-image: url(asana.jpg);
+background-image: url(/asana.jpg);
     background-size: 100% 100%;
 }
 .fin{
-background-image: url(spotify.jpg);
+background-image: url(/spotify.jpg);
     background-size: 100% 100%;
 }
 .fine{
-background-image: url(hubspot.jpg);
+background-image: url(/hubspot.jpg);
     background-size: 100% 100%;
 }
 .lack{
-    background-image: url(abd.jpg);
+    background-image: url(/abd.jpg);
     background-size: 100% 100%;
 }
 .fly{
     cursor: pointer;
 }
 .loud{
-    background-image: url(abd.jpg);
+    background-image: url(/abd.jpg);
     background-size: 100% 100%;
 }
 .monk{
     border-bottom-right-radius: 700px;
-    background-image: url(mimi.jpg);
+    background-image: url(/mimi.jpg);
     background-size: 100% 100%;
 }
 .pee{
@@ -75,43 +75,43 @@ background-image: url(hubspot.jpg);
 }
 .food{
     border-radius: 100%;
-     background-image: url(man1.jpg);
+     background-image: url(/man1.jpg);
     background-size: 100% 100%;
 }
 .lap{
     border-radius: 100%;
-     background-image: url(woman1.jpg);
+     background-image: url(/woman1.jpg);
     background-size: 100% 100%;
 }
 .lab{
     border-radius: 100%;
-     background-image: url(woman2.jpg);
+     background-image: url(/woman2.jpg);
     background-size: 100% 100%;
 }
 .wake{
     border-top-right-radius: 700px;
-    background-image: url(lap3.jpg);
+    background-image: url(/lap3.jpg);
     background-size: 100% 100%;
 }
 .box{
     border-bottom-left-radius: 700px;
-    background-image: url(lap.jpg);
+    background-image: url(/lap.jpg);
     background-size: 100% 100%;
 }
 .lamp{
-    background-image: url(lap2.jpg);
+    background-image: url(/lap2.jpg);
     background-size: 100% 100%;
 }
 .hat1{
-    background-image: url(man1.jpg);
+    background-image: url(/man1.jpg);
     background-size: 100% 100%;
 }
 .hat2{
-    background-image: url(woman2.jpg);
+    background-image: url(/woman2.jpg);
     background-size: 100% 100%;
 }
 .hat3{
-    background-image: url(woman1.jpg);
+    background-image: url(/woman1.jpg);
     background-size: 100% 100%;
 }
 .mma{
@@ -218,16 +218,16 @@ opacity: 0;
     transform: scale(1.05)
 }
 .kiss{
-    background-image: url(glass.jpg);
+    background-image: url(/glass.jpg);
     background-size: 84% 100%;
 }
 
 .kiss2{
-     background-image: url(bag.jpg);
+     background-image: url(/bag.jpg);
     background-size: 100% 100%;
 }
 .kiss3{
-     background-image: url(wallet.jpg);
+     background-image: url(/wallet.jpg);
     background-size: 100% 100%;
 }
 
