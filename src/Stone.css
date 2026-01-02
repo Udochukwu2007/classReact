@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+.cover{
+    height: 100vh;
+    width: 100%;
+    background-image: url(atlas.jpg);
+    background-size: 100% 100%;
+}
+.map{
+    background-image: url(sspic.jpg);
+    background-size: 100% 100%;
+}
+.pain{
+    border: 3px solid gray;
+    color: white;
+}
+.pain::placeholder{
+    padding: 10px;
+    color: white;
+}
+.man{
+    position: absolute;
+    top: 360px;
+    left: 770px;
+    font-size: 30px;
+}
+.han{
+    height: 100vh;
+    width: 100%;
+    background-color: blue;
+}
+.gold{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+.mm{
+    height: 70px;
+    width: 250px;
+    background-image: url(ha.jpg);
+    background-size: 100% 100%;
+}

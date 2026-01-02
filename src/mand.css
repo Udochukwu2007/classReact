@@ -1,0 +1,30 @@
+@import "tailwindcss";
+.move{
+    height: 600px;
+    width: 100%;
+    background-image: url(boy1.jpg);
+    background-size: 100% 100%;
+}
+.lil{
+    border: 8px solid blueviolet;
+    background-color: #0004;
+}
+.pink{
+    height: 300px;
+    width: 90%;
+    background-image: url(plan.jpg);
+     background-size: 100% 100%;
+    margin-left: 70px;
+}
+.black{
+    background-image: url(boy2.jpg);
+     background-size: 100% 100%;
+}
+.moon{
+    background-image: url(lat.jpg);
+     background-size: 100% 100%;
+}
+.pray{
+    background-image: url(jjk.jpg);
+     background-size: 100% 100%;
+}
