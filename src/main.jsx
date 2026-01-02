@@ -6,7 +6,7 @@
 import ReactDOM from 'react-dom/client';
 import App2 from './App2';
 import { BrowserRouter } from 'react-router-dom';
-import "./ston.css"
+import "./Lam.css"
 import Header2 from './Header2';
 
 
